@@ -68,11 +68,11 @@
                             <div class="footer-widget wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='500ms'>
                                 <h4 class="footer-widget__title">our <span>services</span></h4>
                                 <ul class="list-unstyled footer-widget__links">
-                                    <li class="footer-widget__links__item"><a href="service-d-wind-generator.html">Wind Turbines</a></li>
-                                    <li class="footer-widget__links__item"><a href="service-d-solar-service.html">Solar Panels</a></li>
-                                    <li class="footer-widget__links__item"><a href="service-d-hydropower-plants.html">Hydropower Plants</a></li>
-                                    <li class="footer-widget__links__item"><a href="service-d-energy-panels.html">Fossil Resources</a></li>
-                                    <li class="footer-widget__links__item"><a href="service-d-thermo-stone.html">Battery Materials</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Wind Turbines</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Solar Panels</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Hydropower Plants</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Fossil Resources</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Battery Materials</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,11 +80,11 @@
                             <div class="footer-widget wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='700ms'>
                                 <h4 class="footer-widget__title">useful <span>links</span></h4>
                                 <ul class="list-unstyled footer-widget__links">
-                                    <li class="footer-widget__links__item"><a href="about.html">About Us</a></li>
-                                    <li class="footer-widget__links__item"><a href="team.html">Leadership Team</a></li>
-                                    <li class="footer-widget__links__item"><a href="blog-grid.html">News & blog</a></li>
-                                    <li class="footer-widget__links__item"><a href="project.html">Our Projects</a></li>
-                                    <li class="footer-widget__links__item"><a href="contact.html">Contacts</a></li>
+                                    <li class="footer-widget__links__item"><a href="index.php">Home</a></li>
+                                    <li class="footer-widget__links__item"><a href="about.php">About Us</a></li>
+                                    <li class="footer-widget__links__item"><a href="services.php">Services</a></li>
+                                    <li class="footer-widget__links__item"><a href="projects.php">Our Projects</a></li>
+                                    <li class="footer-widget__links__item"><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
